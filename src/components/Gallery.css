@@ -1,0 +1,27 @@
+.gallery {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+  }
+  
+  .pics {
+    width: 80%;
+    border-radius: 25px;
+  }
+  
+  .pics img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .gallery-title{
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    font-size: 50px;
+    text-align: center;
+    text-decoration:underline;
+    color: white;
+    
+}
