@@ -1,2 +1,0 @@
-
-# Luthira Website + Portfolio

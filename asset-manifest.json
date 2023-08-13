@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/luthira/static/css/main.07dfdf4f.css",
+    "main.js": "/luthira/static/js/main.2fd52f08.js",
+    "static/js/787.9f39698d.chunk.js": "/luthira/static/js/787.9f39698d.chunk.js",
+    "static/media/crew.png": "/luthira/static/media/crew.20962cd07e880d14f6d8.png",
+    "static/media/devNew.png": "/luthira/static/media/devNew.c2832be87c7fa6671232.png",
+    "static/media/devTeamPic.jpg": "/luthira/static/media/devTeamPic.8be0912e8d62913a9b8e.jpg",
+    "static/media/img1.jpg": "/luthira/static/media/img1.4c867401931e304b4131.jpg",
+    "static/media/img5.jpg": "/luthira/static/media/img5.36396f4c044e4395bcba.jpg",
+    "static/media/img2.jpg": "/luthira/static/media/img2.06bf6a885aac1ded93e4.jpg",
+    "static/media/img7.jpg": "/luthira/static/media/img7.4d9ec1caec97af969183.jpg",
+    "static/media/img3.jpg": "/luthira/static/media/img3.e3091af0ea664626ddbe.jpg",
+    "static/media/img8.jpg": "/luthira/static/media/img8.2b9021a9f9daa89aa7b8.jpg",
+    "static/media/img6.jpg": "/luthira/static/media/img6.be489026068edb057d44.jpg",
+    "static/media/pfp.jpg": "/luthira/static/media/pfp.4a9178a779bc79296cd2.jpg",
+    "static/media/img11.jpg": "/luthira/static/media/img11.511a528ee5e15ca224ce.jpg",
+    "static/media/img9.jpg": "/luthira/static/media/img9.a94b18b472b34f91d600.jpg",
+    "static/media/img12.jpg": "/luthira/static/media/img12.8aa1ea1971a4c7293dc5.jpg",
+    "static/media/img4.jpg": "/luthira/static/media/img4.209546c2702f527afa62.jpg",
+    "static/media/img10.jpg": "/luthira/static/media/img10.8ae81c991d2e103fa3d5.jpg",
+    "static/media/UofT.png": "/luthira/static/media/UofT.f0519a596c2daec0822a.png",
+    "static/media/devOld.png": "/luthira/static/media/devOld.e2673ab9d750b9a0a7e9.png",
+    "static/media/DNBlogo.png": "/luthira/static/media/DNBlogo.80527590988f568c7f34.png",
+    "static/media/ssa.png": "/luthira/static/media/ssa.6f7ebd5334489a9a7b17.png",
+    "index.html": "/luthira/index.html",
+    "main.07dfdf4f.css.map": "/luthira/static/css/main.07dfdf4f.css.map",
+    "main.2fd52f08.js.map": "/luthira/static/js/main.2fd52f08.js.map",
+    "787.9f39698d.chunk.js.map": "/luthira/static/js/787.9f39698d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07dfdf4f.css",
+    "static/js/main.2fd52f08.js"
+  ]
+}
