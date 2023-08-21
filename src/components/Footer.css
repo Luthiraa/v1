@@ -1,0 +1,28 @@
+.footer {
+    padding-top: 10px;
+    text-align: center;
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+  }
+  
+  .icon {
+    font-size: 3.5em;
+    color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  .icon:hover {
+    color: #1B263B;
+  }
+    .footer h1{
+        margin: 0;
+        padding-top: 5px;
+        padding-bottom: 10px;
+        font-size: 40px;
+        text-align: center;
+    }
