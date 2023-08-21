@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/luthira/static/css/main.d127bf29.css",
-    "main.js": "/luthira/static/js/main.6780715f.js",
+    "main.js": "/luthira/static/js/main.edc16c2f.js",
     "static/js/787.9f39698d.chunk.js": "/luthira/static/js/787.9f39698d.chunk.js",
     "static/media/crew.png": "/luthira/static/media/crew.20962cd07e880d14f6d8.png",
     "static/media/devNew.png": "/luthira/static/media/devNew.c2832be87c7fa6671232.png",
@@ -30,11 +30,11 @@
     "static/media/swimming.png": "/luthira/static/media/swimming.0e119ecb56ffb2c569c8.png",
     "index.html": "/luthira/index.html",
     "main.d127bf29.css.map": "/luthira/static/css/main.d127bf29.css.map",
-    "main.6780715f.js.map": "/luthira/static/js/main.6780715f.js.map",
+    "main.edc16c2f.js.map": "/luthira/static/js/main.edc16c2f.js.map",
     "787.9f39698d.chunk.js.map": "/luthira/static/js/787.9f39698d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d127bf29.css",
-    "static/js/main.6780715f.js"
+    "static/js/main.edc16c2f.js"
   ]
 }
