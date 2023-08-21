@@ -8,25 +8,27 @@ import React from 'react'
 import Gallery from './components/Gallery.jsx';
 import Footer from './components/Footer.jsx'
 import AboutMe from './components/AboutMe';
+import Decay from './components/Decay';
+
 
 function App() {
   return (
     <div>
-      <Parallax pages={6.7}>
+      <Parallax pages={7.7}>
       <ParallaxLayer offset={0}>
       <HeroBanner/>
       </ParallaxLayer>
       <ParallaxLayer offset={1}style={{background:'#e0e1dd'}}>
       <AboutMe/>
       </ParallaxLayer>
-      <ParallaxLayer offset={2} factor={2.5} style={{background:'#e0e1dd'}}>
+      <ParallaxLayer offset={2} factor={3.5} style={{background:'#e0e1dd'}}>
       <MyJourney/>
       </ParallaxLayer>
-      <ParallaxLayer offset={4.5} factor={2}style={{background:'#0D1B2A'}}>
+      <ParallaxLayer offset={5.5} factor={2}style={{background:'#0D1B2A'}}>
         <h1 className='gallery-title'>My Gallery</h1>
       <Gallery/>
       </ParallaxLayer>
-      <ParallaxLayer offset={6.5} factor={0.2} style={{background:'#e0e1dd'}}>
+      <ParallaxLayer offset={7.5} factor={0.2} style={{background:'#e0e1dd'}}>
       <Footer/>
       </ParallaxLayer>
         <ParallaxLayer offset={1} speed={0.2} style={{ opacity: 0.2 }}>
@@ -64,7 +66,9 @@ function App() {
           <img src={Drop} style={{ display: 'block', width: '5%', marginLeft: '40%' }} />
           
         </ParallaxLayer>
-
+        <ParallaxLayer offset={1}>
+        <Decay/>
+        </ParallaxLayer>
         <ParallaxLayer offset={3} speed={0.2} style={{ opacity: 0.2 }}>
           <img src={Drop} style={{ display: 'block', width: '10%', marginLeft: '10%' }} />
           

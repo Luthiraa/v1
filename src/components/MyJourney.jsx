@@ -7,6 +7,10 @@ import devNew from '../assets/img/devNew.png';
 import devTeamPic from '../assets/img/devTeamPic.jpg';
 import ssa from '../assets/img/ssa.png'
 import crew from '../assets/img/crew.png'
+import blze from '../assets/img/blze.png'
+import swimming from '../assets/img/swimming.png'
+import wrestling from '../assets/img/wrestling.png'
+import wrestling_team from '../assets/img/wrestling_team.png'
 function MyJourney() {
     return (
         <div>
@@ -52,6 +56,7 @@ function MyJourney() {
                 <div className='column'>
                     <h1>Devolotics - Freight Frenzy</h1>
                     <h2>2021-22</h2>
+                    <h5>FIRST TECH CHALLENGE - Rookie sesaon</h5>
                     <div className="image-container">
                         <img src={devOld} />
                     </div>
@@ -74,6 +79,7 @@ function MyJourney() {
                 <div className='column'>
                     <h1>Devolotics - Power Play</h1>
                     <h2>2022-23</h2>
+                    <h5>FIRST TECH CHALLENGE - Second Season: Ontario Champion</h5>
                     <div className="image-container">
                         <img src={devNew} />
                     </div>
@@ -95,6 +101,7 @@ function MyJourney() {
                 <div className='column'>
                     <h1>Scarborough STEM Alliance</h1>
                     <h2>2022-Present</h2>
+                    <h5>Co-founder/Co-president of STEM nonprofit</h5>
                     <div className="image-container">
                         <img src={ssa} />
                     </div>
@@ -109,6 +116,55 @@ function MyJourney() {
                             Shaping the direction of the Scarborough STEM Alliance has been a rewarding challenge. From the beginning, I've been deeply involved in setting our organization's goals and defining our mission. Providing a clear vision has been instrumental in guiding our efforts and ensuring that our initiatives align with our core values of accessibility and excellence in STEM education.</li>
                     </ul>
 
+                </div>
+            </div>
+            <div className='ECs'>
+                <div className='column'>
+                    <h1>Swimming</h1>
+                    <h2>2012-Present</h2>
+                    <h5>Competitive Swimming - Lifeguard</h5>
+                    <div className="image-container">
+                        <img src={swimming} />
+                    </div>
+                    <h4>Overview:</h4>
+                    <p>From a young age, I have always loved swimming. Starting in the YMCA in 2012 to reciveing my Bronze Cross at the age of 12, which is when I decided to do swimming competitively. Below are some of my swimming achivements: </p>
+                    <ul>
+                        <li>Bronze Cross: August 2017</li>
+                        <li>Swim Instructor Certification: July 2022</li>
+                        <li>National Lifeguard: August 2022</li>
+                    </ul>
+                    <h6>BCI Swim Team Awards (2022 Spring - City Championships): </h6>
+                    <ul>
+                        <li>Mens 50m Backstroke - 2nd</li>
+                        <li>Mens 100m Backstroke - 2nd</li>
+                        <li>Mens 100m Breastroke - 3rd</li>
+                        <li>Mens 4x100m Medly Relay - 2nd</li>
+                    </ul>
+                    <br/>
+                </div>
+                <div className='column'>
+                    <h1>Wrestling</h1>
+                    <h2>2019-2023</h2>
+                    <h5>Highschool Wrestling Team</h5>
+                    <div className="image-container">
+                        <img src={wrestling} />
+                    </div>
+                    <h4>Overview:</h4>
+                    <p>During my grade 9 year of highschool, I decided to join the wrestling team. Although I have never done a sport of this caliber or have participated in anything with such high impact, I found this a transformative journey, which allowed me to get into shape, train and persure to win. </p>
+                    <h4>The Squad:</h4>
+                    <div className="image-container">
+                        <img src={wrestling_team} alt="Dev Team" className="centered-image" style={{ height: 150 }} />
+                    </div>
+                </div>
+                <div className='column'>
+                    <h1>Audio Visual (A/V)</h1>
+                    <h2>2019-2023</h2>
+                    <h5>Highschool A/V Team - President</h5>
+                    <div className="image-container">
+                        <img src={blze} />
+                    </div>
+                    <h4>Overview:</h4>
+                    <p></p>
                 </div>
             </div>
         </div>
