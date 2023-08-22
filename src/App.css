@@ -1,0 +1,24 @@
+.prevent-select {
+    -ms-user-select: none; 
+    user-select: none; 
+  }
+
+  .gallery-title{
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    font-size: 50px;
+    text-align: center;
+    text-decoration:underline;
+    color: white;
+    
+    }
+
+img {  
+user-drag: none;  
+user-select: none;
+-moz-user-select: none;
+-webkit-user-drag: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+}
