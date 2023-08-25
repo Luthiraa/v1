@@ -1,0 +1,56 @@
+.card-container {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.card {
+  background-color: #e0e1dd;
+  padding: 20px;
+  max-width: 345px;
+  border-radius: 25px;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+}
+
+.card.animated {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.8s ease, transform 1s ease;
+}
+
+.card-container.visible .card.animated {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.prevent-select {
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.icon {
+  width: 30px;
+  color: black;
+}
+
+/* Additional styling for typography */
+.card .MuiTypography-h5 {
+  color: black;
+}
+
+.card .MuiTypography-body2 {
+  color: black;
+}
+
+.title {
+  margin: 0;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+}
