@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/luthira/static/css/main.e7f2c6a6.css",
-    "main.js": "/luthira/static/js/main.38646047.js",
+    "main.css": "/luthira/static/css/main.b4a6708a.css",
+    "main.js": "/luthira/static/js/main.262cafb3.js",
     "static/js/787.9f39698d.chunk.js": "/luthira/static/js/787.9f39698d.chunk.js",
     "static/media/crew.png": "/luthira/static/media/crew.20962cd07e880d14f6d8.png",
     "static/media/devNew.png": "/luthira/static/media/devNew.c2832be87c7fa6671232.png",
@@ -72,12 +72,12 @@
     "static/media/swimming.png": "/luthira/static/media/swimming.0e119ecb56ffb2c569c8.png",
     "static/media/bluebottom.svg": "/luthira/static/media/bluebottom.b41bc39a83bafff7ed808e04991447c0.svg",
     "index.html": "/luthira/index.html",
-    "main.e7f2c6a6.css.map": "/luthira/static/css/main.e7f2c6a6.css.map",
-    "main.38646047.js.map": "/luthira/static/js/main.38646047.js.map",
+    "main.b4a6708a.css.map": "/luthira/static/css/main.b4a6708a.css.map",
+    "main.262cafb3.js.map": "/luthira/static/js/main.262cafb3.js.map",
     "787.9f39698d.chunk.js.map": "/luthira/static/js/787.9f39698d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7f2c6a6.css",
-    "static/js/main.38646047.js"
+    "static/css/main.b4a6708a.css",
+    "static/js/main.262cafb3.js"
   ]
 }
