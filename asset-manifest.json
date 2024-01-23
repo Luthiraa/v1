@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/luthira/static/css/main.b4a6708a.css",
-    "main.js": "/luthira/static/js/main.262cafb3.js",
+    "main.js": "/luthira/static/js/main.09e5bc13.js",
     "static/js/787.9f39698d.chunk.js": "/luthira/static/js/787.9f39698d.chunk.js",
     "static/media/crew.png": "/luthira/static/media/crew.20962cd07e880d14f6d8.png",
     "static/media/devNew.png": "/luthira/static/media/devNew.c2832be87c7fa6671232.png",
@@ -67,17 +67,18 @@
     "static/media/wrestling.png": "/luthira/static/media/wrestling.af1d654ad1c4672fac67.png",
     "static/media/DNBlogo.png": "/luthira/static/media/DNBlogo.80527590988f568c7f34.png",
     "static/media/ssa.png": "/luthira/static/media/ssa.6f7ebd5334489a9a7b17.png",
+    "static/media/utat-logo.png": "/luthira/static/media/utat-logo.8ea812b26d822261174d.png",
     "static/media/CareLink.png": "/luthira/static/media/CareLink.f0d690dc7c466f8a1104.png",
     "static/media/blze.png": "/luthira/static/media/blze.3f3f4959416da0693bb1.png",
     "static/media/swimming.png": "/luthira/static/media/swimming.0e119ecb56ffb2c569c8.png",
     "static/media/bluebottom.svg": "/luthira/static/media/bluebottom.b41bc39a83bafff7ed808e04991447c0.svg",
     "index.html": "/luthira/index.html",
     "main.b4a6708a.css.map": "/luthira/static/css/main.b4a6708a.css.map",
-    "main.262cafb3.js.map": "/luthira/static/js/main.262cafb3.js.map",
+    "main.09e5bc13.js.map": "/luthira/static/js/main.09e5bc13.js.map",
     "787.9f39698d.chunk.js.map": "/luthira/static/js/787.9f39698d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4a6708a.css",
-    "static/js/main.262cafb3.js"
+    "static/js/main.09e5bc13.js"
   ]
 }
